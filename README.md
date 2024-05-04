@@ -1,10 +1,10 @@
 # Домашнее задание к лекции 3 «Массивы»
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/d5fbc772f610da29c541de9f8def3ce529ddde55/3.arrays/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/3.arrays/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/d5fbc772f610da29c541de9f8def3ce529ddde55/3.arrays">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/d5fbc772f610da29c541de9f8def3ce529ddde55/3.arrays/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/3.arrays">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/3.arrays/index.html">index.html</a>.
 
 ## Что было сделано
 * Реализована функция сравнения массивов с использованием функций высшего порядка.
