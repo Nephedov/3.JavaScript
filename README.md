@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 3 «Массивы»
+# «Массивы»
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/3.arrays/task.js">task.js</a> - код с реализованными функциями.
